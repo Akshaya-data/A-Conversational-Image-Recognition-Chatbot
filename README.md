@@ -36,16 +36,20 @@ To set up the project locally, follow these steps:
 
 3. **Install Dependencies**:
    Create a virtual environment and install the required packages:
+   
    python -m venv venv
+   
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   
    pip install -r requirements.txt
    
 
-4. **Set Up Environment Variables**:
+5. **Set Up Environment Variables**:
    Create a `.env` file in the root directory and add your OpenAI API key: OPENAI_API_KEY=your_api_key_here
    
-5. **Run the Application**:
+6. **Run the Application**:
    Start the Flask server: python app.py
+   
    Open your web browser and navigate to `http://127.0.0.1:5000` to access the chatbot interface.
 
 ## Future Enhancements
