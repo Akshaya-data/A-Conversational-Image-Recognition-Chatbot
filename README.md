@@ -30,10 +30,11 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
 
    git clone https://github.com/yourusername/Conversational-Image-Recognition-Chatbot.git
+   
    cd Conversational-Image-Recognition-Chatbot
    
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
    Create a virtual environment and install the required packages:
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
