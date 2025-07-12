@@ -67,7 +67,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 - Special thanks to OpenAI for providing the GPT-4 API.
 - Thanks to the developers of YOLO, Tesseract, and other libraries used in this project.
-
----
-
-Feel free to customize any sections to better fit your project's specifics or personal preferences!
